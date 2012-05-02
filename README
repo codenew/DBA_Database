@@ -1,1 +1,7 @@
---README--
+#DBA Database
+This project was created as a central location to store the scripts and tools that DBAs may use throughout the course of their duties.  The full script list will be maintained below.  
+
+##Scripts
+* WhoIsActive 11.11 by Adam Machanic
+* MaintenanceSolution by Ola Hallengren updated 14 April, 2012
+* More Info about Report Server Subscriptions by StevefromOZ [here](http://www.sqlservercentral.com/Forums/Topic254010-150-1.aspx)
